@@ -2416,5 +2416,6 @@ html.w-mod-js *[data-ix="hero-text"] {
 
 .badges{
   position: center;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+  margin-left: 30px;
 }
